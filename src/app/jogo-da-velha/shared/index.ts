@@ -1,1 +1,1 @@
-export * from './jogo-da-velha.service'
+export * from './jogo-da-velha.service';
